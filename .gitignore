@@ -1,0 +1,15 @@
+# Java compiled files
+*.class
+/bin/
+/out/
+/target/
+
+# IDE folders
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Logs
+*.log
